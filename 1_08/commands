@@ -1,0 +1,2 @@
+docker build -t web-server ./1_08
+docker run web-server
