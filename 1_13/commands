@@ -1,0 +1,2 @@
+docker build -t backend-example ./1_13
+docker run -p 8080:8080 backend-example
